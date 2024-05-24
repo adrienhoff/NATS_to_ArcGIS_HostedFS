@@ -1,0 +1,9 @@
+{
+    "nats_server_url": "nats://your_server_ip:port",
+    "nats_user": "your_user",
+    "nats_password": "your_pw",
+    "portal_url": "https://your.url/portal",
+    "feature_layer_url": "https://your_arcgis_url/server/rest/services/Hosted/geojson_feature_collection/FeatureServer/0",
+    "profile": "python_portal_prof2",
+    "subject": "your_nats_subject"
+}
